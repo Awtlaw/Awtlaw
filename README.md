@@ -5,7 +5,6 @@
 🚀 Passionate about Web Development and Open Source  
 <br>
 ## 👨‍💻 About Me
-.
 
 
 ## 🛠️ Tech Stack
