@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Youngson
+
+💻 Software Developer  
+🌍 Based in Ghana  
+🚀 Passionate about Web Development and Open Source  
+<br>
+## 👨‍💻 About Me
+.
+
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- HTML
+- CSS
 
 <!--
 **Awtlaw/Awtlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
